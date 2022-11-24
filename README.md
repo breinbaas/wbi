@@ -69,6 +69,10 @@ Te bepalen via Riskeer tool.
 
 ![Toetsoordelen per dijktraject](https://github.com/breinbaas/wbi/blob/master/img/03.png?raw=true)
 
+### Piping
+
+Sellmeijer wordt ook wel 'terugschrijdende erosie' genoemd.
+
 
 
 

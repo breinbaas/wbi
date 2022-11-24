@@ -6,6 +6,8 @@ Aantekeningen van mezelf om uit het doolhof van de WBI documentatie en termen te
 
 #### Faalmechanismen
 
+[bron](https://www.helpdeskwater.nl/publish/pages/132756/begrippenlijst_en_afkortingen_wbi2017_20170116_bijlage_i_procedure_def.pdf)
+
 | afkorting  | faalmechanisme  |
 |---|---|
 | ABO | Bezwijken onderlagen voor asfaltbekledingen (toetsspoor VTV2006, toets op maat WBI 2017) |

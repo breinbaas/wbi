@@ -54,8 +54,8 @@ Te bepalen via Riskeer tool.
 
 ### Toetsoordelen
 
-[bron](https://www.helpdeskwater.nl/publish/pages/157040/11205758-005-geo-0001_v4-0-assemblageprotocol-wbi2017.pdf)
-[generieke bron](https://www.helpdeskwater.nl/onderwerpen/waterveiligheid/primaire/beoordelen/@205763/assemblageprotocol-wbi-2017/)
+* [bron pdf](https://www.helpdeskwater.nl/publish/pages/157040/11205758-005-geo-0001_v4-0-assemblageprotocol-wbi2017.pdf)
+* [bron web](https://www.helpdeskwater.nl/onderwerpen/waterveiligheid/primaire/beoordelen/@205763/assemblageprotocol-wbi-2017/)
 
 #### Dijktraject
 

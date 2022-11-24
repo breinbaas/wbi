@@ -52,6 +52,22 @@ Te bepalen via Riskeer tool.
 
 **todo** is er ook een shape?
 
+### Toetsoordelen
+
+#### Dijktraject
+
+![Toetsoordelen per dijktraject](https://github.com/breinbaas/wbi/blob/master/img/01.png?raw=true)
+
+#### Toetsspoor
+
+![Toetsoordelen per dijktraject](https://github.com/breinbaas/wbi/blob/master/img/02.png?raw=true)
+
+#### Relatie tussen de categorie-indeling per vak en de categorie-indeling per dijktraject
+
+![Toetsoordelen per dijktraject](https://github.com/breinbaas/wbi/blob/master/img/03.png?raw=true)
+
+
+
 
 
 
